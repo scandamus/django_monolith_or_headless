@@ -1,0 +1,1 @@
+# django_monolith_or_headless
