@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "manage_user.apps.ManageUserConfig"
+    "manage_user.apps.ManageUserConfig",
+    "omikuji.apps.OmikujiConfig"
 ]
 
 MIDDLEWARE = [
